@@ -1,0 +1,19 @@
+Difference between Hub,Switch and Router?
+
+ HUB:
+   It present in Layer 1 ie Physical Layer.
+   It transmits data in bits.
+   It is like broadcast( ie it transmits to all devices not care about traffics happens in network).
+   It is half duplex(only one device can send data).
+SWITCH:
+   It is present in Layer 2 ie Datalink layer.
+   It transmits data in the form of frames.
+   It is like multicast.
+   It send data to particular system that need to be send ,it has mac address.
+   It is full duplex.
+   It checks error.
+Router:
+   It is present in Layer 3 ie Network layer.
+   It connect different networks.
+   It send data to particular system as it has ip address.
+   It is full duplex.
